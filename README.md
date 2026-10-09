@@ -1,6 +1,6 @@
 # Desiree Nicole Bernido
 
-Data Science student seeking a full-time **Service Desk Analyst** opportunity.
+Data Science student seeking full-time, entry-level opportunities in technology and data.
 
 I study **BS Data Science, major in Geospatial and Big Data**, at **Bulacan State University — Sarmiento Campus**. My academic experience includes developing a mobile application's backend using **Python and FastAPI**.
 
@@ -25,7 +25,7 @@ The project's full title is *Mobile Translator for the Dumagat Language with Spe
 
 ## Career focus
 
-I am interested in technical support and applying my academic development experience in a Service Desk Analyst role.
+I am open to entry-level roles in backend development, technical support, and data-related work where I can apply my academic background, contribute to practical projects, and continue developing my skills.
 
 ## Contact
 
