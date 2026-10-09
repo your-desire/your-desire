@@ -49,6 +49,12 @@ This was a team project; the contributions above describe my backend responsibil
 
 These screenshots show the documented API structure; they do not show a completed translation test.
 
+### Sample translation response
+
+A sample English-to-Bulos request returned **HTTP 200** with translation text and the `word_match` method.
+
+![Successful English-to-Bulos API response showing HTTP 200 and the complete JSON response](assets/bulos-api-response.png)
+
 ## Career interests
 
 Backend development, technical support, and data-related roles.
