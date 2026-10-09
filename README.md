@@ -38,9 +38,9 @@ This was a team project; the contributions above describe my backend responsibil
 
 Application screenshots from our team capstone. My contributions focused on backend APIs, database integration, deployment, translation logic, and LSTM model training.
 
-| Home | Translation result |
-| --- | --- |
-| <img src="assets/bulos-app-home.jpg" alt="Bulos Translator home screen" width="240"> | <img src="assets/bulos-app-result.jpg" alt="English-to-Bulos translation result" width="240"> |
+**Home screen**
+
+<img src="assets/bulos-app-home.jpg" alt="Bulos Translator home screen" width="240">
 
 <details>
 <summary>View dictionary and saved translations</summary>
