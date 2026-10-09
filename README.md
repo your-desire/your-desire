@@ -34,6 +34,21 @@ An Android application focused on preserving the Bulos language used by the Duma
 
 This was a team project; the contributions above describe my backend responsibilities. The project's full title is *Mobile Translator for the Dumagat Language with Speech Recognition Features*.
 
+### API documentation screenshots
+
+**API overview:** FastAPI documentation showing vocabulary management and the translation endpoint.
+
+![Bulos Translator API overview](assets/bulos-api-overview.png)
+
+<details>
+<summary>View dictionary, history, and evaluation endpoints</summary>
+
+![Bulos Translator dictionary, history, and evaluation endpoints](assets/bulos-api-features.png)
+
+</details>
+
+These screenshots show the documented API structure; they do not show a completed translation test.
+
 ## Career interests
 
 Backend development, technical support, and data-related roles.
