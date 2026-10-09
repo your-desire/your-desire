@@ -2,7 +2,7 @@
 
 Data Science student seeking full-time, entry-level opportunities in technology and data.
 
-I study **BS in Data Science, major in Geospatial and Big Data**, at **Bulacan State University — Sarmiento Campus**. My academic experience includes developing a mobile application's backend using **Python and FastAPI**.
+I study **BS in Data Science**, at **Bulacan State University — Sarmiento Campus**. My academic experience includes developing a mobile application's backend using **Python and FastAPI**.
 
 ## Skills
 
