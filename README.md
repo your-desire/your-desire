@@ -2,13 +2,13 @@
 
 Data Science student seeking full-time, entry-level opportunities in technology and data.
 
-I study **BS in Data Science**, at **Bulacan State University — Sarmiento Campus**. My academic experience includes developing a mobile application's backend using **Python and FastAPI**.
+I am pursuing a **BS in Data Science** at **Bulacan State University — Sarmiento Campus**. My academic experience includes building a translation application's backend with **Python and FastAPI**.
 
 ## Skills
 
-- **Python** — academic backend development
-- **FastAPI** — backend framework used in my capstone
-- **Microsoft Excel**
+- **Backend development:** Python, FastAPI, API development and UI integration
+- **Translation systems:** Phrase and dictionary matching, fuzzy matching, LSTM model training
+- **Tools:** Microsoft Excel
 
 ## Featured project
 
@@ -16,16 +16,27 @@ I study **BS in Data Science**, at **Bulacan State University — Sarmiento Camp
 
 **Role: Backend Developer · Academic team capstone**
 
-The Bulos Translator is an Android application focused on preserving the Bulos language used by the Dumagat community in Sitio Karahume, San Isidro, City of San Jose del Monte, Bulacan.
+An Android application focused on preserving the Bulos language used by the Dumagat community in Sitio Karahume, San Isidro, City of San Jose del Monte, Bulacan.
 
-- Developed the backend using **Python and FastAPI**.
-- Worked as part of a capstone team; this portfolio describes my backend contribution.
+**My contributions**
+- Created the backend API using Python and FastAPI.
+- Handled the database setup and integration.
+- Deployed the backend and supported its integration with the application's UI.
+- Prepared the translation data files and handled LSTM translation model training.
+- Implemented hybrid translation logic combining phrase matching, dictionary-based translation, and fuzzy matching.
 
-The project's full title is *Mobile Translator for the Dumagat Language with Speech Recognition Features*.
+**Explore the project**
+- [Backend repository](https://github.com/your-desire/Bulos-Translator-backend)
+- [FastAPI application](https://github.com/your-desire/Bulos-Translator-backend/blob/main/app/main.py)
+- [Translation logic](https://github.com/your-desire/Bulos-Translator-backend/blob/main/services/translation.py)
+- [LSTM training script](https://github.com/your-desire/Bulos-Translator-backend/blob/main/scripts/train_lstm.py)
+- [Fuzzy matching implementation](https://github.com/your-desire/Bulos-Translator-backend/blob/main/utils/fuzzy_match.py)
 
-## Career focus
+This was a team project; the contributions above describe my backend responsibilities. The project's full title is *Mobile Translator for the Dumagat Language with Speech Recognition Features*.
 
-I am open to entry-level roles in backend development, technical support, and data-related work where I can apply my academic background, contribute to practical projects, and continue developing my skills.
+## Career interests
+
+Backend development, technical support, and data-related roles.
 
 ## Contact
 
