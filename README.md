@@ -40,7 +40,7 @@ Application screenshots from our team capstone. My contributions focused on back
 
 | Home | Filipino-to-Bulos translation result |
 | --- | --- |
-| <img src="assets/bulos-app-home.jpg" alt="Bulos Translator home screen" width="240"> | <img src="assets/bulos-app-result.jpg" alt="Filipino-to-Bulos result for Ano ang pangalan mo" width="240"> |
+| <img src="assets/bulos-app-home.jpg" alt="Bulos Translator home screen" width="240"> | <img src="assets/bulos-app-filipino-result.jpg" alt="Filipino-to-Bulos result for Ano ang pangalan mo" width="240"> |
 
 <details>
 <summary>View dictionary and saved translations</summary>
